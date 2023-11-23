@@ -1,0 +1,3 @@
+0 Tumor Cerebral 
+1 Alzheimer
+2 Normal
